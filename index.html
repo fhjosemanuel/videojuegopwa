@@ -93,6 +93,11 @@
       z-index: 1500;
     }
   </style>
+  <script>
+    if("serviceWorker" in navigator){
+      navigator.serviceWorker.register("sw.js");
+    }
+  </script>
 </head>
 
 <body>
