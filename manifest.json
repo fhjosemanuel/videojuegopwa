@@ -4,10 +4,10 @@
     "background_color": "#fff",
     "display": "fullscreen",
     "description": "La historia nunca antes contada",
-    "start_url": "/index.html",
+    "start_url": "./index.html",
     "icons": [
       {
-        "src": "/public/img/nacom_red.png",
+        "src": "./public/img/nacom_red.png",
         "sizes": "512x512",
         "type": "image/png"
       }
